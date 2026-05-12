@@ -1,0 +1,337 @@
+# BRIEF v4 — VSL Sova / Pack Équilibre
+
+> Brief copywriter complet, datas form injectées. À lire en entier avant écriture.
+> Source datas : `clients/sova/data/form-responses/form-prequizz-sopk-17520-responses.csv`
+> Filtre persona : C4 = "J'ai le SOPK" → **9 435 répondantes**
+
+---
+
+## 0 · Contexte mission
+
+VSL de **8 à 9 minutes** pour Sova (première DNVB française sur le SOPK). Objectif : conversion directe sur la page Pack Équilibre. Première VSL FR sur la verticale SOPK — marché vierge (Schwartz sophistication 1-2).
+
+**Objection #1 à faire sauter** : *"j'ai tout essayé, ça ne marche pas pour MOI"*. Fil transversal adressé en Acte 2 (déculpabilisation), Acte 4 (raison mécanique d'échec par alt), Acte 5 (pourquoi le Protocole Équilibre attaque ce que les autres ratent).
+
+---
+
+## 1 · Datas persona injectées (form 9 435 femmes SOPK)
+
+### 1.1 Profil démographique
+
+| Variable | Top valeur | % |
+|---|---|---|
+| **Âge (C9)** | 25-37 ans | **60.9%** |
+| | 18-25 ans | 26.1% |
+| | 38-50 ans | 12.0% |
+| **Casting témoignages** | → 1 témoin 22-25 / 1 témoin 28-32 / 1 témoin 35-40 |
+
+### 1.2 ⭐ Préoccupation PRINCIPALE (C10) — couvre 99% des SOPK
+
+| Rang | Préoccupation | % | Stratégie hook |
+|---|---|---|---|
+| **1** | **Stabiliser / perdre du poids** | **45.5%** | ⭐ **HOOK A** (volume max) |
+| 2 | Diminuer mon acné et/ou ma pilosité | 26.1% | **HOOK B** (intensité émotionnelle forte) |
+| 3 | Réguler mes cycles | 11.3% | HOOK C (projet bébé adjacent) |
+| 4 | Améliorer santé mentale / stress / sommeil | 8.0% | Hook D (sous-segment burnout) |
+
+**Recommandation** : tourner 3 hooks (A, B, C), tester en pré-roll, scale celui qui sort.
+
+### 1.3 Symptôme visible dominant (C36) — sur celles qui répondent (n=2 426)
+
+| Symptôme | % |
+|---|---|
+| **Pilosité** | **51.5%** |
+| Les deux (pilosité + acné) | 29.1% |
+| Acné | 19.4% |
+
+→ **80.6% des SOPK qui répondent à C36 vivent avec la pilosité** comme symptôme dominant.
+→ Acte 1.4 : *"et toi tu galères encore avec [poils noirs sur le menton] et [boutons sur la mâchoire]"*
+
+### 1.4 Cycles sur 12 mois (C7) — couvre 73%
+
+| Cycle | % |
+|---|---|
+| Entre 25-40 jours (normal) | 45.8% |
+| **Complètement anarchiques** | **16.5%** |
+| Entre 40 jours et 3 mois | 16.0% |
+| Plus de 3 mois ou absents | 15.3% |
+| Moins de 25 jours | 6.1% |
+
+→ **53.9% des SOPK ont des cycles dysfonctionnels** (anarchiques, longs, absents).
+→ Acte 4.1 étape 3 : *"cycles à 38, 45 jours, parfois 3 mois entre deux règles, parfois disparues"*
+
+### 1.5 Flux (C8)
+
+| Flux | % |
+|---|---|
+| Normal | 53.8% |
+| **Abondant (lever la nuit)** | **32.7%** |
+| Spotting / très léger | 13.5% |
+
+### 1.6 Objectif perte de poids (C30) — couvre 45% (les 45.5% du concern poids)
+
+| Kg visés | % |
+|---|---|
+| Entre 10 et 20 kg | 35.8% |
+| **+ 20 kg** | **34.1%** |
+| Entre 3 et 10 kg | 26.5% |
+| 3 max | 2.0% |
+
+→ **70% veulent perdre +10 kg**. C'est massif. Ancre l'argument "ça colle malgré le sport/régimes" et le coût alternatif (10 ans de régimes ratés).
+
+### 1.7 Santé mentale, sommeil, brain fog, stress, moral
+
+| Variable | Top dominant | % |
+|---|---|---|
+| **Sommeil (C110)** | Difficultés d'endormissement + réveils nocturnes | **40.3%** |
+| | + sommeil saccadé/mauvaise qualité | 34.1% → **74% de sommeil dégradé** |
+| **Brain fog (C111)** | Sujette quand fatiguée | 37.6% |
+| | Souvent | 31.9% |
+| | **C'est mon quotidien** | **23.6%** → **93% concernées** |
+| **Stress (C118)** | **Nature stressée / anxieuse** | **77.7%** |
+| **Moral (C119)** | Pas terrible / dépressive | 54.6% |
+| **SPM (C81 — 2e passage, sous-segment intense)** | **"Au bord du gouffre - ça me fait peur"** | **56.5%** |
+
+→ Conséquence émotionnelle ultra forte. À nommer en Acte 2.1 (déculpabilisation) ET en Acte 1.4 (retour prospect).
+
+### 1.8 Contraception hormonale (C6) — *preuve directe de l'objection "j'ai tout essayé"*
+
+| | % |
+|---|---|
+| **Pas sous contraceptif** | **73.5%** |
+| Sous contraceptif | 26.5% |
+
+→ **73.5% ont déjà quitté la pilule** (ou n'y sont jamais retournées). Elles ne sont pas en attente d'une révélation sur le sujet — elles ont déjà tiré la conclusion que ça ne suffit pas. À utiliser tel quel en Acte 4.3 : *"3 femmes SOPK sur 4 ont déjà quitté la pilule parce qu'elles ont compris que ça masquait. Mais personne leur a dit ce qu'il fallait faire après."*
+
+### 1.9 Librairie de verbatims persona (libellés réutilisables tel quel par le copywriter)
+
+Ces formulations viennent directement du quizz Sova (ton de la marque déjà calibré) :
+- "Complètement anarchiques... (cycles courts puis parfois cycles longs)"
+- "J'ai un flux abondant, je dois me lever la nuit pour changer de protection"
+- "Je suis dans l'incapacité totale de travailler / me déplacer, cela me met K.O plusieurs jours"
+- "Je suis au bord du gouffre — cela me fait peur"
+- "C'est mon quotidien, je ne sais même plus ce que c'est de vivre sans" (brain fog)
+- "Je n'ai pas du tout le moral / je vis une période compliquée"
+- "Je suis de nature stressée / anxieuse"
+- "J'ai des difficultés d'endormissement, et je me réveille plusieurs fois dans la nuit"
+- "Je ne sais pas, je veux juste me sentir mieux"
+
+---
+
+## 2 · Cible et niveau de conscience
+
+**Persona** : femme **25-37 ans** (cœur 60.9%), SOPK diagnostiquée ou en errance. 73% non-contraceptée → elle cherche actuellement une réponse. **Préoccupation #1 = poids** (45.5%), **#2 = acné/pilosité** (26.1%).
+
+**Niveau Schwartz** :
+- **Problem-aware** sur ses symptômes
+- **Sova-unaware** — ne connaît pas la marque
+- → Attaque directe sur le problème, Sova installée comme autorité
+
+---
+
+## 3 · Big Idea + fil rouge
+
+**Big Idea** :
+> "Si t'as galéré pendant des années sans réponse claire, c'est pas toi qui es nulle. C'est que même tes médecins n'ont jamais été formés à ça. Voilà ce qu'on a fini par comprendre — et voilà ce que [X milliers] de femmes ont déjà utilisé pour reprendre la main."
+
+**Fil rouge — Empowerment + Autorité retournée**
+
+Vocabulaire pivot : **reprendre la main**, **récupérer ce qu'on t'a privé**, **libérer**, **rejoindre**. Jamais "soigner", "guérir".
+
+Ennemis nommés : trou de formation médicale, fix rapides masquants (pilule, régimes), compléments sous-dosés.
+
+---
+
+## 4 · Structure 8-9 min (squelette à respecter — datas mappées)
+
+### ACTE 1 — Hook contrasté + empowerment (0:00 – 0:45)
+
+- **1.1 Ouverture douleur ciblée** — *Hook A recommandé sur le poids (45.5% concern principale)*
+  > *Squelette type* : "Plus de [X] femmes en France n'arrivent pas à perdre de poids malgré tout ce qu'elles essaient. Pas parce qu'elles ne font pas d'effort. Parce qu'elles ont un truc qu'on appelle le SOPK."
+- **1.2 Pivot contrasté** : "pourtant [~X] femmes ont déjà obtenu [résultat concret]"
+- **1.3 Mini-stack 3 portraits flash** : Prénom + symptôme avant + résultat (1 ligne chacune)
+- **1.4 Retour prospect** : injecter **les 2 top symptômes par sous-segment** :
+  - Si Hook A (poids) → "et toi tu galères encore à perdre tes 10-20 kilos malgré le sport et les régimes" + "et tes pulsions de sucre te ruinent la journée"
+  - Si Hook B (acné/pilosité) → "et toi tu galères encore avec [poils noirs sur le menton] et [boutons sur la mâchoire]"
+  - Si Hook C (cycles) → "et toi tu vis encore avec des cycles à 45 jours qui partent on sait pas quand"
+- **1.5 Question pivot empowerment** : "pourquoi elles et pas toi ?"
+
+### ACTE 2 — Déculpabilisation systémique + Story Eva (0:45 – 2:30)
+
+- **2.1 Tu n'es pas le problème** (à étoffer, pas une phrase sèche)
+  - Adresser frontalement "j'ai tout essayé"
+  - **Levier data** : *"3 femmes SOPK sur 4 ont déjà quitté la pilule"* (C6 = 73.5% non contraceptées) → elles savent que c'était un masque
+  - **Levier data** : *"70% veulent perdre +10 kg et n'y arrivent pas"* (C30) → preuve que ce n'est pas un manque d'effort
+  - Recadrer chaque échec comme **logique**, pas comme défaillance perso
+- **2.2 Storytelling Eva condensé** : 1ers symptômes à 13 ans (cohérent avec diag à 21 ans, donc 6 ans d'errance), parcours médical (X pros consultés, phrases entendues), aucune solution adaptée
+- **2.3 Bloc data systémique** : heures de formation SOPK en médecine + délai moyen diag + % non-diagnostiquées (*Norman → valider chiffres exacts auprès d'Eva*)
+- **2.4 Reformulation empowerment**
+- **2.5 Transition vers Sova** ("alors j'ai fait ce que personne avait fait avant pour moi")
+
+### ACTE 3 — Sova média + autorité retournée (2:30 – 3:15)
+
+- **3.1 Naissance de Sova** comme conséquence de la galère d'Eva (média → produit, pas l'inverse)
+- **3.2 Taille communauté actuelle** *[à fournir : chiffres IG + TikTok + newsletter]*
+- **3.3 Autorité retournée** :
+  - *[à fournir : nb pros de santé formés par Sova à ce jour]*
+  - **[Capture écran]** DM/témoignages de pros qui ont demandé formation
+- **3.4 Légitimation scientifique flash** : pharmacien + chercheurs, 18 mois de formulation
+
+### ACTE 4 — Mécanisme + invalidation alternatives (3:15 – 4:30)
+
+- **4.1 Cascade SOPK ancrée sur les douleurs vécues** (datas mappées) :
+  - **Étape 1 — Insuline en excès** → *"c'est ce qui te crée tes pulsions sucre 17h, ton ventre qui gonfle, ta fatigue après les repas — et c'est surtout ce qui fait que tes 10, 15, 20 kilos collent malgré tout ce que tu fais"* ⟵ ancre **C10 #1 (poids 45.5%) + C30 (70% +10kg)**
+  - **Étape 2 — Testostérone en excès** → *"c'est ce qui te crée les poils noirs au menton, sur le bas-ventre, les boutons sur la mâchoire, la chute de cheveux sur le dessus du crâne"* ⟵ ancre **C36 (pilosité 51.5%, acné 19.4%, mix 29.1%)**
+  - **Étape 3 — Blocage ovulation** → *"c'est ce qui explique tes cycles à 38, 45 jours, ou qui sautent carrément — et c'est ce qui peut compliquer un projet bébé"* ⟵ ancre **C7 (54% cycles dysfonctionnels)**
+  - **Étape 4 — Conséquence en cascade** → *sommeil dégradé, brain fog quotidien, anxiété* ⟵ ancre **C110 (74%), C111 (93%), C118 (77.7%)**
+- **4.2 Recadrage "une cause, tous tes symptômes"**
+- **4.3 Pourquoi rien n'a marché jusqu'ici** (raison mécanique par alt) :
+  - **Pilule** → masque, retour pire à l'arrêt (et 73.5% des SOPK l'ont déjà compris, cf. C6)
+  - **Régimes hypocaloriques** → cortisol monte → insuline monte → yoyo
+  - **Sport intensif seul** → ne change pas le signal hormonal
+  - **Compléments grand public** → sous-dosés, mauvaises formes
+  - *Conclusion empowerment* : "c'est pas que t'es un cas perdu — c'est que tu t'es battue avec des outils qui pouvaient pas marcher"
+
+### ACTE 5 — Solution Sova / Le Protocole Équilibre (4:30 – 6:15)
+
+- **5.1 Nommer le mécanisme : "Le Protocole Équilibre"** *(working name — à valider Eva)*
+  - Double action : racine **hormonale** (Ovastart) + racine **métabolique** (Balance tes sucres)
+  - Pourquoi ÇA marche quand le reste a échoué = **on attaque la cause**
+- **5.2 Ovastart** : actif phare = **inositols myo+D-chiro ratio 40:1 (4g/jour)** = ratio des ovaires sains, sourcé PubMed. Posologie.
+- **5.3 Balance tes sucres** : actif phare = **berbérine 352mg** (comparée à la metformine sans effets digestifs) + **gymnema** (coupe les pulsions sucre — "destructrice de sucre" en sanskrit). Posologie.
+- **5.4 Calendrier de résultats** :
+  - 2 sem : pulsions sucre ↓
+  - 1 mois : énergie + brouillard mental
+  - 3 mois : cycles + peau
+  - 6 mois : palier de transformation
+  - Justifier minimum 3 mois
+- **5.5 Justification dosage thérapeutique** (formes biodisponibles, dosages vs minimum réglementaire, fabrication France) — ⚠️ **pas taper sur la pharmacie, pas comparer à un concurrent nommément**
+
+### ACTE 6 — Preuves clients vidéo (6:15 – 7:30)
+
+- **6.1 [Témoignage vidéo 1]** — sous-segment **poids/pulsions** (28-32 ans) ⟵ adresse C10 #1
+- **6.2 [Témoignage vidéo 2]** — sous-segment **acné/pilosité** (22-26 ans) ⟵ adresse C10 #2
+- **6.3 [Témoignage vidéo 3]** — sous-segment **cycles/fertilité** (32-38 ans) ⟵ adresse C10 #3
+- **6.4 [B-roll silencieux]** Wall of love captures Judge.me défilantes
+
+### ACTE 7 — Offre + Close empowerment (7:30 – 8:30)
+
+- **7.1 Recadrage coût alternatif** (10 ans de régimes/dermato/esthétique/pilule, 1 ligne) — *appuyé par C30 (70% veulent perdre +10kg)*
+- **7.2 3 paliers de prix + reco pack 3 mois**
+- **7.3 Ancrage €/jour**
+- **7.4 Garantie + logistique flash** ⚠️ **à valider Eva**
+- **7.5 Future pacing dichotomique compressé** (inaction vs action, 30 sec)
+- **7.6 CTA empowerment** (verbe d'action = reprendre la main)
+- **7.7 Signature Eva**
+
+---
+
+## 5 · Assets narratifs
+
+### Founder Story (Eva + Solène)
+- **Eva** diagnostiquée juin 2019 à 21 ans, après 6 ans de symptômes (acné, dépression, +12kg, aménorrhée, hirsutisme)
+- **Solène** (sa sœur) diagnostiquée mai 2021
+- 18 mois de formulation avec docteur en pharmacie + chercheurs
+- Octobre 2021 : lancement éditorial
+- Mai 2022 : lancement premier produit via Ulule
+- Aujourd'hui : *[chiffres communauté + pros formés à fournir par Sova]*
+
+### Pack Équilibre — résumé (compo détaillée sur fiche produit Shopify)
+- **Ovastart** (2 sticks/jour) — actif phare = inositols myo+D-chiro ratio 40:1 (4g/jour)
+- **Balance tes sucres** (3 gélules/jour) — actif phare = berbérine 352mg + gymnema
+- *Ne PAS lister tous les ingrédients dans le script*
+
+### Prix
+- 1 mois (unique) : 60€
+- 1 mois (abonnement) : 54€
+- **Pack 3 mois : 139€ (≈46€/mois) → tarif recommandé**
+
+### Différenciants à matraquer (sans nommer concurrents)
+- Formes biodisponibles (Quatrefolic, P5P, bisglycinate) vs formes inertes
+- Dosages thérapeutiques vs minimum réglementaire
+- Fabrication France, contrôle de lots
+- Ratio inositols 40:1 = ratio des ovaires sains (sourcé PubMed)
+
+---
+
+## 6 · Inspirations / swipes
+
+### Landing — fil rouge global
+- **Primal Queen** (`swipe-files/landing-primal-queen-fr.md`) — empowerment, ton complice, jalons temporels, founder-led, ennemi clair, communauté nommée
+
+### VSL — patterns par acte
+
+| VSL | Fichier | Pattern dominant | Acte à inspirer |
+|---|---|---|---|
+| **Laserhappy** (arrêt tabac, laser) | `swipe-files/vsl/vsl-laserhappy-tabac.md` | Founder face cam, problem-aware, preuve avant/après, mécanisme "deux technologies validées science" | Acte 4 (mécanisme) + Acte 6 (preuves) |
+| **Resell Alcool** (investissement vin) | `swipe-files/vsl/vsl-resell-alcool.md` | Hook par citations presse, framing macro-tendance, stratégie "insider" | Acte 1 (hook news angle alt) |
+| **SLO Télécommande à profits** | `swipe-files/vsl/slo-telecommande-profits.md` | Hook misdirection, preuves par captures | Acte 1 (hook alt) + Acte 5 (nommage mécanisme) |
+| **Learn Immo / Pierre-Louis** | `swipe-files/vsl/vsl-learn-immo-pierre-louis.md` | Autorité founder + chiffres résultats perso + "stratégie méconnue en France" | Acte 2 (story founder) + Acte 3 (légitimation) |
+
+### Référence rythme
+- **YouSleep VSL** (transcript dispo `~/Downloads/transcript-getyusleep/transcript.md`) — masterclass d'identification problem-aware. **Pour le rythme et les techniques d'objection**, pas pour le ton (US dramatisé vs sobre Sova).
+
+---
+
+## 7 · Contraintes
+
+### Compliance ARPP (non négociable)
+- Pas de "guérit", "soigne", "traite", "élimine"
+- Préférer "contribue à", "aide à", "soutient", "favorise"
+- Témoignages : "j'ai retrouvé", "je sens", "j'ai constaté" — jamais "le produit a fait X"
+- Mention "complément alimentaire ne se substitue pas à un régime varié" en bandeau bas permanent
+- Pas de promesse de résultat individuel garanti
+
+### Ton
+- Première personne Eva (founder-led)
+- Tutoiement systématique
+- Phrases courtes. Sujet-verbe-complément.
+- Langage parlé ("c'est", "t'as", pas "ce qu'il convient de")
+- Zéro corporate, zéro jargon médical non expliqué
+- Émotion contenue, pas pathos
+- Confiance tranquille, pas hype
+
+### Do / Don't
+- ✅ Système médical comme ennemi générique (jamais un pro nommé)
+- ✅ Chiffres précis (1/10, 70%, 6 ans, 73.5% non-contraceptées, etc.)
+- ✅ Pauses marquées (point. ligne courte. respire.)
+- ❌ Comparer Sova à un concurrent nommément
+- ❌ Taper sur la pharmacie ou une marque
+- ❌ Promettre grossesse ou perte de poids chiffrée individuelle
+- ❌ Dramatiser façon VSL US ("votre vie vous échappe")
+- ❌ Vocabulaire "puissance/divin/sacré"
+
+---
+
+## 8 · Livrable attendu
+
+**Format** : script Markdown, structuré par les 7 actes.
+
+Chaque acte :
+- Timecode indicatif (début – fin)
+- Texte parlé intégral
+- Notes scène entre crochets : `[B-roll : ...]`, `[Animation : ...]`, `[Capture écran : ...]`, `[Sous-titre key : ...]`
+- Notes psycho en marge si choix stratégique non évident
+
+**Longueur cible** : 1 200 – 1 400 mots parlés (8-9 min à ~150 mots/min).
+
+**Itérations** : v1 → review Sam → v2 → review Eva → v3 final tournage.
+
+---
+
+## 9 · Inputs encore manquants
+
+À fournir par Sova :
+
+- [ ] Chiffres communauté actuelle (IG + TikTok + newsletter)
+- [ ] Nombre de pros de santé formés par Sova à ce jour
+- [ ] 3-5 captures DM/témoignages de pros (pour Acte 3.3)
+- [ ] Chiffre clientes Pack Équilibre depuis lancement (pour pivot Acte 1.2)
+- [ ] 3 témoignages vidéo clientes validés (1 par sous-segment, accord image)
+- [ ] Nom de la communauté Sova si existant (équivalent "Queens")
+- [ ] Validation Eva : stats systémiques exactes (heures formation SOPK, délai diag FR, % non-diagnostiquées)
+- [ ] Validation Eva : naming "Protocole Équilibre"
+- [ ] Validation Eva : garantie + logistique (Acte 7.4)
+- [ ] Choix du hook A/B/C à tester en priorité
+
+**Une fois ces inputs réunis → écriture v1 sous 48h.**
